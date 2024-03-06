@@ -1,0 +1,7 @@
+#name	venue	date
+Baseball Game	Huntington Park	2023-11-08
+Exhibition	Nationwide Arena	2023-11-10
+Art Fair	COSI	2023-11-30
+Trade Show	Huntington Park	2023-12-05
+Music Festival	COSI	2023-12-10
+Soccer Match	Nationwide Arena	2023-12-15

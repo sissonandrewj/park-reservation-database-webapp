@@ -1,0 +1,10 @@
+#zone	venue	miles
+StateHouse	Nationwide Arena	1
+StateHouse	COSI	4
+StateHouse	Huntington Park	3
+ShortNorth	Nationwide Arena	2
+ShortNorth	COSI	5
+ShortNorth	Huntington Park	4
+NorthMarket	Nationwide Arena	2
+NorthMarket	COSI	4
+NorthMarket	Huntington Park	2

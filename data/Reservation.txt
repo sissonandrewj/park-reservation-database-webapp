@@ -1,0 +1,6 @@
+#confirmation_no	phone_no	zone	date	fee	is_cancelled
+HEJQ554P	123-456-7890	StateHouse	2023-11-08	4.50	0
+AVYFQP3P	123-456-7890	ShortNorth	2023-11-30	6.50	1
+VE5ZBFDY	123-456-7890	NorthMarket	2023-11-30	9.60	0
+S3D2ADFX	321-654-0987	StateHouse	2023-12-05	7.80	0
+CFACXW8U	321-654-0987	ShortNorth	2023-11-30	13.00	0

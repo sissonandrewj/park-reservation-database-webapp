@@ -1,0 +1,4 @@
+#name	max_designated_spots
+StateHouse	200
+ShortNorth	100
+NorthMarket	50
